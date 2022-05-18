@@ -5,3 +5,5 @@ The message and image are incorporated to the body of an email and sent automati
 This widget was created using React, Tailwind, TypeScript, Axios and Vite for frontend development and Node.js, Express, NodeMailer, Jest, Prisma and TypeScript for backend development.
 
 This project was originaly created by the NLW event supported by Rocketseat.
+
+Project Deploy: https://widget-feedback-web-woad.vercel.app/
